@@ -22,10 +22,10 @@ University Final Group Project
 ## Course
 ITE120
 
-## Team Members
-- Kanravi Charoentanaset
-- Chonlada Saetang
-- Tunchanok
+## Team Members and Roles
+- Kanravi Charoentanaset - (Account, My detail, My Order, Payment Method)
+- Chonlada Saetang - (Shop, Home, Contact)
+- Tunchanok - (Cart, Checkout)
 
 ## Screenshots
 - Home Page
